@@ -11,7 +11,7 @@
 
 -	Top Languages Used:
 
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nydrus)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](https://github.com/anuraghazra/github-readme-stats)
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nydrus)(https://github.com/anuraghazra/github-readme-stats)
 
 
 
