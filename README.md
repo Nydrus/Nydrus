@@ -12,6 +12,8 @@
 -	Top Languages Used:
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nydrus)
+	</p>
+	<h3 align="left">Stats taken from: </h3>
 	(https://github.com/anuraghazra/github-readme-stats)
 
 
