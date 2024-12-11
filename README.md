@@ -4,11 +4,6 @@
 </p>
 
 
-
-- 🏗️ I’m currently learning how to develop an Airlines-Management-System using Java Core, Swing, JDBC and MySQL.
-
-
-
 -	Top Languages Used:
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nydrus)
